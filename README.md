@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Frontend and Backend development**
 
-- 👨‍💻 All of my projects are available at [here](https://aryakpt.github.io/](https://github.com/aryakpt))
+- 👨‍💻 All of my projects are available at [here](https://github.com/aryakpt)
 
-- 📫 How to reach me **aryakrisna07@gmail.com**
+- 📫 How to reach me [here](mailto:aryakrisna07@gmail.com)
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1cpi7Gid61lW3T3jTxbhPf_bfajchCAo8/edit?usp=sharing&ouid=103277840525621454634&rtpof=true&sd=true)
 
