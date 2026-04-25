@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Arya Krisna Putra</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer & Lecturer Specialist & Doctoral Candidate in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryakpt&label=Profile%20views&color=0e75b6&style=flat" alt="aryakpt" /> </p>
 
 <img align="right" alt="Coder" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🌱 I’m currently learning **Frontend and Backend development**
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/aryakpt)
-
-- 📫 How to reach me [here](mailto:aryakrisna07@gmail.com)
-
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1cpi7Gid61lW3T3jTxbhPf_bfajchCAo8/edit?usp=sharing&ouid=103277840525621454634&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I think I'm funny :)**
+- 🎓 <b>Doctoral Candidate</b> in Computer Science at Bina Nusantara University
+- 🏫 <b>Lecturer Specialist</b> at BINUS University School of Computer Science
+- 🔬 Research Interests: <b>Artificial Intelligence, Computer Vision, and IoT</b>
+- 🌱 Currently exploring: <b>Deep Learning & Advanced Research</b>
+- 📄 Still learning about Frontend and Backend development
+- 👨‍💻 Portfolio available <a href="https://github.com/aryakpt">here</a>
+- 📫 Reach me: <a href="mailto:aryakrisna07@gmail.com">aryakrisna07@gmail.com</a>
+- 🎓 <b>Doctoral Candidate</b> in Computer Science at Bina Nusantara University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +26,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryakpt&show_icons=true&locale=en&layout=compact" alt="aryakpt" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aryakpt&show_icons=true&locale=en" alt="aryakpt" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=aryakpt&show_icons=true&locale=en" alt="aryakpt" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryakpt&" alt="aryakpt" /></p>
