@@ -10,7 +10,7 @@
 - 🔬 Research Interests: <b>Artificial Intelligence, Computer Vision, and IoT</b>
 - 🌱 Currently exploring: <b>Deep Learning & Advanced Research</b>
 - 📄 Still learning about Frontend and Backend development
-- 👨‍💻 Portfolio available <a href="https://github.com/aryakpt">here</a>
+- 👨‍💻 Portfolio available <a href="https://github.com/aryakpt](https://aryakpt.github.io/">here</a>
 - 📫 Reach me: <a href="mailto:aryakrisna07@gmail.com">aryakrisna07@gmail.com</a>
 - 🎓 <b>Doctoral Candidate</b> in Computer Science at Bina Nusantara University
 
